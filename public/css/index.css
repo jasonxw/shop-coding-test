@@ -1,0 +1,65 @@
+body{
+    width: 60%;
+    margin: 10% auto;
+}
+
+.top{
+    border: 1px solid;
+}
+
+form{
+    text-align: center;
+}
+
+.top h1{
+    text-align: center;
+}
+
+.top-list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.top-list li{
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin:1%
+}
+
+.cart{
+    text-align: center;
+}
+
+p{
+    font-size: 2.25rem;
+}
+
+.discount{
+    margin: 2%;
+}
+
+.discount a{
+    color: #f44336;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.cart p{
+    text-transform: uppercase;
+}
+
+.total{
+    border: 1px solid gray;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
