@@ -6,4 +6,4 @@
 
 3 Think more about exception when write code and design and handle error.
 
-4 Write testable code.
+4 Write testable code and beware practice OOP in writing code.
